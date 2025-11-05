@@ -15,7 +15,7 @@ The responsibility of Tower at Pietermaritzburg falls to the dedicated Tower ATS
 * All circuits will be run left hand.
 
 !!! info "Circuit Clearance"
-    ZSABC, hold position, after departure Runway 16, left hand circuits, not above 3500ft, report right downwind Runway 16.
+    ZSABC, hold position, after departure Runway 16, left hand circuits, not above 3500ft, report Left downwind Runway 16.
 
 ## Wake Seperation
 
