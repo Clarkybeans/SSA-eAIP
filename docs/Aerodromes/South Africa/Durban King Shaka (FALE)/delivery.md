@@ -28,21 +28,23 @@
 
 ## Departure Procedures
 
+All SIDs out of FALE are suspended. All pilots to be given Runway Track with an initial climb of FL70.
+
 Runway 06
 
 | Fix | SID | Initial Climb | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| GYV | GYV1A | FL70 | "GYV" said as Greytown. |
-| ITMIL | ITMIL1C | FL70 | - |
-| TUBIN | TUBIN1A | FL70 | - |
+| GYV | ~~GYV1A~~ | ~~FL70~~ | "GYV" said as Greytown. SUSPENDED |
+| ITMIL | ~~ITMIL1C~~ | ~~FL70~~ | SUSPENDED |
+| TUBIN | ~~TUBIN1A~~ | ~~FL70~~ | SUSPENDED |
 
 Runway 24
 
 | Fix | SID | Initial Climb | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| GYV | GYV2B | FL70 | "GYV" said as Greytown. |
-| ITMIL | OKTAN1A | FL70 | - |
-| TUBIN | TUBIN1B | FL70 | - |
+| GYV | ~~GYV2B~~ | ~~FL70~~ | "GYV" said as Greytown. SUSPENDED |
+| ITMIL | ~~OKTAN1A~~ | ~~FL70~~ | SUSPENDED |
+| TUBIN | ~~TUBIN1B~~ | ~~FL70~~ | SUSPENDED |
 
 ## Phraseology
 
