@@ -22,7 +22,7 @@ All VFR fixed wing and rotor aircraft departing Cape Town, excluding SAPS and SA
 
 Cape Town does not have the required apron size nor taxiway surface to accommodate Code F aircraft (Airbus A380-800, Boeing 747-800s or any aircraft with a wingspan between 65 and 80 metres). That being said they are common on VATSIM and no official procedures exist to accommodate this. Controllers should always be aware that a Code F aircraft on any of the A, B or C stands will not allow for adequate wing tip clearance for aircraft taxing behind it. The solution to this is to ask the pilot if they have the adequate wing tip clearance to keep clear of other aircraft on the apron.
 
-!!! info "VFR Phraseology"
+!!! info "Wingtip Clearance Phraseology"
     "BAW09P, Confirm you are able to keep clear of the Bonair A350 ahead of you?"
 ### Stand Restrictions
 
@@ -58,7 +58,7 @@ By default, all aircraft should be taxied to the full length holding point unles
 | 19 | Rwy 16/34 int | 2630 |
 | 19 | E | 1875 |
 | 01 | Full Length | 3201 |
-| 01 | Ch | 2080 |
+| 01 | C | 2080 |
 
 ### Taxi Restrictions 
 
@@ -68,7 +68,10 @@ Code F aircraft may only use the main apron to access their assigned stand and n
 
 ### Non-movement Areas
 
-The H, T and Z apron are non-movement areas. No movement instructions may be issued to aircraft within these areas. Aircraft should be instructed to taxi at their discretion and hold short of the movement area. 
+The H, T and Z apron are non-movement areas. No movement instructions may be issued to aircraft within these areas. Aircraft should be instructed to taxi at their discretion and hold short of the movement area. Controllers can provide startup clearance, but ask the pilots to hold short of taxiway B.
+
+!!! info "Pushback Phraseology"
+    "ZS-PPT, start approved, Runway 19 in use, QNH 1015, taxi at pilots discretion, call me holding short of B."
 
 *Insert Image highlighting non-movement areas*
 
