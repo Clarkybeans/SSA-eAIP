@@ -15,7 +15,7 @@ Once this data has been received by the SMC controller, the controller shall the
 At Pietermaritzburg, filing a flight plan as VFR is not mandatory unlike Cape Town, so you do not need to ask for a pilot to file a flight plan.
 
 !!! info "VFR Phraseology"
-    "ZSDUR, thank you, start up approved, expect Runway 17, QNH 1015, report ready for taxi."
+    "ZSDUR, thank you, start up approved, expect Runway 16, QNH 1015, report ready for taxi."
 
 ## Pushback Procedures
 
@@ -29,4 +29,4 @@ At Pietermaritzburg, filing a flight plan as VFR is not mandatory unlike Cape To
 ## Taxi Procedures
 
 !!! info "Taxi Phraseology"
-    "(callsign), taxi to the holding Point Runway 17, report ready.".
+    "(callsign), taxi to the holding Point Runway 16, report ready.".
