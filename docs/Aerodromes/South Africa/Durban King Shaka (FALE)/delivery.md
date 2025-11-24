@@ -28,7 +28,7 @@
 
 ## Departure Procedures
 
-Please note that all SIDs are now suspended at King Shaka.
+Please note that all SIDs are now suspended at King Shaka. All aircraft to receive Runway track with an initial climb of FL70.
 
 Runway 06
 
